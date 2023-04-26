@@ -1,0 +1,9 @@
+{
+  "name": "copenhagen-frontend-cli",
+  "version": "1.0.0",
+  "description": "The frontend CLI",
+  "main": "./src/index.js",
+  "repository": "https://github.com/Project-Copenhagen/frontend-cli",
+  "author": "Colderry",
+  "license": "MIT"
+}
